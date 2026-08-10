@@ -1,6 +1,6 @@
-### 2026.08.10
+# 2026.08.10
 
-C++ Study Curriculum
+## C++ Study 커리큘럼
 ├── 01_basic
 ├── 02_pointer
 ├── 03_class
@@ -17,7 +17,7 @@ C++ Study Curriculum
     ├── udp-simulator
     └── drone-simulator
 
-### Plan
+## Plan
 1단계. C++ 입문/기초 (1개월)
     - 포인터
     - 배열
